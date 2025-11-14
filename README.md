@@ -27,10 +27,14 @@ This project uses Python’s built-in modules, so **no external installations ar
 ```bash
 git clone https://github.com/7aritri/snake-game-python-turtle
 cd snake-game-python-turtle
-python snake.py
+python 1.py
 
-##Key Action
-⬆️ Up Arrow	Move Up
-⬇️ Down Arrow	Move Down
-⬅️ Left Arrow	Move Left
-➡️ Right Arrow	Move Right
+## **Key Action**
+
+| Key | Action |
+|------|--------|
+| ⬆️ Up Arrow | Move Up |
+| ⬇️ Down Arrow | Move Down |
+| ⬅️ Left Arrow | Move Left |
+| ➡️ Right Arrow | Move Right |
+

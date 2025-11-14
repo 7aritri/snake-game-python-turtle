@@ -29,7 +29,7 @@ git clone https://github.com/7aritri/snake-game-python-turtle
 cd snake-game-python-turtle
 python snake.py
 
-#Key Action
+##Key Action
 ⬆️ Up Arrow	Move Up
 ⬇️ Down Arrow	Move Down
 ⬅️ Left Arrow	Move Left
